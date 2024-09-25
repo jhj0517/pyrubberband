@@ -1,6 +1,6 @@
 name: CI-minimal
 
-on: [push]
+on: [push] # Temporarily run on all branches for testing
 
 jobs:
   build:
